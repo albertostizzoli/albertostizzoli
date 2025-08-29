@@ -37,7 +37,7 @@
 </a>
 
 <a href="https://fastapi.tiangolo.com/">
-  <img src="https://avatars.githubusercontent.com/u/156354296?s=242&v=4" width="40" alt="FastAPI"/> 
+  <img src="https://avatars.githubusercontent.com/u/156354296?s=242&v=4" width="38" alt="FastAPI"/> 
 </a>
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
@@ -46,6 +46,17 @@
 
 <a href="https://cplusplus.com/doc/tutorial/">
   <img src="https://avatars.githubusercontent.com/u/13841574?s=242&v=4" width="40" alt="C++"/> 
+</a>
+
+
+### Database
+
+<a href="https://www.mysql.com/it/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/> 
+</a>
+
+<a href="https://www.postgresql.org/docs/">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=48" width="40" alt="PostgreSQL"/> 
 </a>
 
 
