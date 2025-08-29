@@ -1,12 +1,14 @@
-# 🌟 Welcome to my GitHub Profile
+<h1 style="text-align: center">🌟 Welcome to my GitHub Profile</h1>
 
 ## 👋 Hi there! I'm Alberto
 
-### 🙋 ABOUT ME
-### - 💻 Full Stack Web Developer & AI Developer
-### - 🌍 NATIONALITY: Italian
+## 🙋 ABOUT ME
+###  💻 Full Stack Web Developer & Python Developer
+###  🌍 NATIONALITY: Italian 
+### 🚀  Motivated and curious, always looking for new technological challenges and growth opportunities
+### 📖 I'm currently studying Python and Artificial Intelligence
 
-## 📫 Contact me
+## 📫 CONTACT ME
 ### - 📧 Email: albertostizzoli60@gmail.com 
 ### - 🔗 LinkedIn: [Alberto Stizzoli](https://www.linkedin.com/in/alberto-stizzoli-82a676260/)
 
@@ -93,4 +95,4 @@
 </div>
 
 
-## 🙏 THANKS FOR VISTING MY ACCOUNT 🙏
+## 🙏 THANKS FOR VISITING MY PROFILE 🙏
