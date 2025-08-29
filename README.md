@@ -97,6 +97,22 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=48" width="40" alt="PostgreSQL"/> 
 </a>
 
+### DevOps & Tools
+
+<a href="https://git-scm.com/doc">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/git.webp" width="40" alt="Git"/> 
+</a>
+
+<a href="https://nginx.org/en/">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nginx.webp" width="40" alt="Nginx"/> 
+</a>
+
+<a href="https://docs.fedoraproject.org/en-US/docs/">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/fedora.webp" width="40" alt="Linux Fedora"/> 
+</a>
+
+
+
 
 
 ## GitHub Statistics
