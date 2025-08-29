@@ -14,6 +14,44 @@
 
 ##  Programming Languages
 
+### Frontend Development
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" alt="HTML"/> 
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" alt="CSS"/> 
+</a>
+
+<a href="https://sass-lang.com/documentation/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" alt="SASS"/> 
+</a>
+
+<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" alt="Bootstrap"/> 
+</a>
+
+<a href="https://tailwindcss.com/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" alt="Tailwind"/> 
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/> 
+</a>
+
+<a href="https://react.dev/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" alt="ReactJS"/> 
+</a>
+
+<a href="https://vuejs.org/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" alt="VueJS"/> 
+</a>
+
+<a href="https://docs.sencha.com/extjs/7.8.0/">
+  <img src="https://avatars.githubusercontent.com/u/78110?s=200&v=4" width="40" alt="ExtJS"/> 
+</a>
+
 ### Backend Development
 
 <a href="https://www.php.net/">
