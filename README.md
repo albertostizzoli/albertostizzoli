@@ -1,10 +1,10 @@
-<h1 style="text-align: center">🌟 Welcome to my GitHub Profile</h1>
+<h1 align="center">🌟 Welcome to my GitHub Profile</h1>
 
 ## 👋 Hi there! I'm Alberto
 
 ## 🙋 ABOUT ME
 ###  💻 Full Stack Web Developer & Python Developer
-###  🌍 NATIONALITY: Italian 
+###  🌍 NATIONALITY: Italian
 ### 🚀  Motivated and curious, always looking for new technological challenges and growth opportunities
 ### 📖 I'm currently studying Python and Artificial Intelligence
 
