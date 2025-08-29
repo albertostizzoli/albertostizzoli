@@ -9,8 +9,8 @@
 ### 📖 I'm currently studying Python and Artificial Intelligence
 
 ## 📫 CONTACT ME
-### - 📧 Email: albertostizzoli60@gmail.com 
-### - 🔗 LinkedIn: [Alberto Stizzoli](https://www.linkedin.com/in/alberto-stizzoli-82a676260/)
+### 📧 Email: albertostizzoli60@gmail.com 
+### 🔗 LinkedIn: [Alberto Stizzoli](https://www.linkedin.com/in/alberto-stizzoli-82a676260/)
 
 ## 💡 PROGRAMMING LANGUAGES
 
